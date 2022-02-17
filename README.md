@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ana Bomfim, estudante de Análise e Desenvolvimento de Sistemas e futura desenvolvedora front-end 👋
 
 
-- 🔭 Atualmente trabalho com vendas, em migração para desenvolvimento
+- 🔭 Atualmente trabalho com vendas, em migração para desenvolvimento front-end
 - 🎯 Aprendendo agora: Java Script
 
 <div align="center">
