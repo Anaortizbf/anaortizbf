@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ana Bomfim, estudante de Análise e Desenvolvimento de Sistemas e futura desenvolvedora front-end 👋
 - 🔭 Atualmente trabalho com vendas, em migração para dev front-end
 - 🎯 Focando agora em: JS, HTML5 e CSS3
-- 📚 Estudando também: Redes de Computadores e Arquitetura de Computadores
+- 📚 Estudando também: Redes de Computadores e Modelagem de Dados
 #
 <div align="center">
   <a href="https://github.com/Anaortizbf">
